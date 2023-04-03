@@ -8,6 +8,14 @@
 * [Week 2 Summary Notes](/Week_2)
 ### * [Week 3](/Week_3)
 * [Week 3 Summary Notes](/Week_3)
+### * [Week 4](/Week_4)
+* [Week 4 Summary Notes](/Week_4)
+### * [Week 5](/Week_5)
+* [Week 5 Summary Notes](/Week_5)
+### * [Week 6](/Week_6)
+* [Week 6 Summary Notes](/Week_6)
+### * [Week 7](/Week_7)
+* [Week 7 Summary Notes](/Week_7)
 
 ### Summary 
 This repository contains all of the notes taken by [Nicole Law](https://github.com/NicoleLaww) for the Lighthouse Labs Web Development Bootcamp.

@@ -39,7 +39,7 @@
 ## Installing Packages 
 * package.json
 * Basic attributes such as project name, description, author 
-* Custom scriptes in package.json
+* Custom scripts in package.json
   * The scripts portion allows us to run commands using an alias
 * Dependencies in package.json
   * Lists the packages that need to be installed for the project to run properly 

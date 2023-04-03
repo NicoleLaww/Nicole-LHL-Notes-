@@ -64,9 +64,6 @@ stdin.on('data', (key) => {
 console.log('after callback');
 ```
 
-## Asynchronous Return Values 
-* 
-
 ## OOP Super 
 * Method Overriding and Super
   * When a subclass implements a method that already exists in the superclass, it is called method overriding. This is because it is indeed overriding the superclass's method.
@@ -99,6 +96,7 @@ const bob = new Mentor('Bob Ross', 'I like mountains way too much');
 console.log(bob.bio());
 ```
   * Super - OOP languages allow subclasses to have a reference on the parent class. This is usually done via the super keyword, and JavaScript supports it too!
+  
 ```javascript
 // Super class
 class Person {
